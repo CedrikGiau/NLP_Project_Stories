@@ -2,6 +2,7 @@ raw_data/
 processed_data/
 temp/
 .env
+notebooks/transformers/
 
 # OS generated files #
 ######################
