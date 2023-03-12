@@ -1,0 +1,10 @@
+pandas
+transformers
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.3+cpu
+numpy
+random
+tqdm
+csv
+os
+sys
